@@ -27,9 +27,9 @@ Para executar o projeto e reproduzir os resultados, certifique-se de ter as segu
 - Python (versão 3.x)
 - NumPy
 - Pandas
-- Matplotlib
 - Seaborn
 - Scikit-learn
+- plotly
 
 Você pode instalar as bibliotecas usando o gerenciador de pacotes `pip`. Por exemplo:
 
